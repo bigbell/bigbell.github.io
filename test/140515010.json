@@ -2,6 +2,9 @@
   "programs": [
     {
       "start": "2014年5月30日",
+      "eachNote": true,
+      "rating": true,
+      "remind": true,
       "end": "2014年6月6日",
       "eachtimeContent": [
         "上午是否有状态很好的时候？是否有状态很差的时候？",
@@ -21,6 +24,9 @@
     },
     {
       "start": "2014年6月7日",
+      "eachNote": true,
+      "rating": true,
+      "remind": true,
       "end": "2014年6月14日",
       "eachtimeContent": [
         "上午是否有状态很好的时候？是否有状态很差的时候？",
@@ -40,6 +46,9 @@
     },
     {
       "start": "",
+      "eachNote": true,
+      "rating": true,
+      "remind": true,
       "end": "",
       "eachtimeContent": [
         "上午是否有状态很好的时候？是否有状态很差的时候？",
