@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://bigbelledu.com/atom.xml" rel="self"/>
   <link href="http://bigbelledu.com/"/>
-  <updated>2014-05-20T19:49:21+08:00</updated>
+  <updated>2014-05-25T10:48:37+08:00</updated>
   <id>http://bigbelledu.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://bigbelledu.com/blog/2014/05/25/test/"/>
+    <updated>2014-05-25T10:38:30+08:00</updated>
+    <id>http://bigbelledu.com/blog/2014/05/25/test</id>
+    <content type="html"><![CDATA[<p>【如果你的iphone、ipad的home键按着不太灵敏看这里】试试这个方法:先连接数据线+电源，再按住Home按钮，直到出现“语音控制”。这时候拔掉数据线，Home键即可恢复正常。貌似是什么电压电荷平衡的问题。我今天试了一下，还真奏效 via</p>
+
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMzUwMzY4NDgw" frameborder=0 allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Place Holder]]></title>
