@@ -1,0 +1,32 @@
+{
+  "programs": [
+    {
+      "start": "2015年01月09日",
+      "eachNote": true,
+      "rating": true,
+      "remind": true,
+      "end": "2015年01月15日",
+      "eachtimeContent": [
+        "总结今天",
+        "回顾前天",
+        "计划明天"
+      ],
+      "days": [
+      ],
+      "name": "这是个例子_/推荐 by 大钟哥",
+      "programTag": 0,
+      "programUnique": 150106010,
+      "daysInterval": 6,
+      "problem": "目的是让你了解一下怎么使用推荐给你的项目",
+      "solution": "这个作为例子的项目，你用一下，就明白怎么玩儿的了",
+      "repeat": 1,
+      "times": 3,
+      "each": [
+        "22:15",
+        "22:30",
+        "22:45"
+      ]
+    }
+  ],
+  "body": "<body>\n<h2 id=\"toc_0\">首页</h2>\n\n<p class=\"center\"><img src=\"Home.png\" alt=\"添加或修改自定义背景图片\"/></p>\n\n<h2 id=\"toc_1\">左侧快捷导航</h2>\n\n<p>向右滑动屏幕，出现左侧快捷导航</p>\n\n<h3 id=\"toc_2\">阅读</h3>\n\n<p>第一次使用，建议点击“全部”，从这里开始。</p>\n\n<p class=\"center\"><img src=\"LeftMenu.png\" alt=\"从全部开始\"/></p>\n\n<blockquote>\n<p>“全部”包含了“看到.知道.想到”的所有文章</p>\n</blockquote>\n\n<h3 id=\"toc_3\">项目</h3>\n\n<p>一个项目是为了实现一个目标而做的计划</p>\n\n<blockquote>\n<p>项目有两个来源：</p>\n\n<ul>\n<li><p>阅读的文章中，会为你推荐一些项目，你可以直接使用这些项目。现在点击右上角的“建议项目”试试看</p></li>\n<li><p>你也可以自己建立项目</p></li>\n</ul>\n</blockquote>\n\n<p class=\"center\"><img src=\"Programs.png\" alt=\"项目状态\"/></p>\n\n<blockquote>\n<p>项目有三种状态：尚未实施、正在实施、实施完成</p>\n</blockquote>\n\n<h3 id=\"toc_4\">实施</h3>\n\n<p>每个项目可以分为若干步骤进行实施，所有的正在实施和实施完成的项目的所有的步骤都体现在实施列表中。</p>\n\n<p class=\"center\"><img src=\"Implementation.png\" alt=\"实施列表\"/></p>\n\n<blockquote>\n<p>列表显示范围</p>\n\n<ul>\n<li>列表中只显示今天及今后8天内需要实施的部分</li>\n<li>昨天及以前的部分在历史列表中</li>\n</ul>\n\n<p>提醒的规则</p>\n\n<ul>\n<li>右上角显示彩色铃铛的实施，表示到时候会提醒你实施</li>\n<li>把彩色铃铛变为灰色铃铛，或者没有铃铛，表示不会提醒</li>\n</ul>\n</blockquote>\n\n<h3 id=\"toc_5\">笔记</h3>\n\n<p>笔记是积累、思考的重要体现，所以阅读、项目、实施等模块中都可以找到记笔记的地方！</p>\n\n<blockquote>\n<p>备份到Evernote（印象笔记）</p>\n\n<ul>\n<li>笔记非常重要，为了避免工匠中学的BUG等导致笔记丢失，可以把笔记同步到Evernote（印象笔记）做备份。在右侧快捷操作菜单中可以找到此功能</li>\n</ul>\n</blockquote>\n\n<h2 id=\"toc_6\">右侧快捷操作</h2>\n\n<p>向左滑动屏幕，出现右侧快捷操作</p>\n\n<p class=\"center\"><img src=\"RightMenu.png\" alt=\"右侧快捷操作\"/></p>\n\n<hr/>\n\n<p>其他详细功能和使用上的Tips，在后面的文章中逐渐介绍给你:)</p>\n\n</body>"
+}
