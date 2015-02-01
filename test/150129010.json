@@ -3,9 +3,9 @@
   "programs": [
     {
       "start": "2015年01月09日",
-      "eachNote": false,
-      "rating": false,
-      "remind": false,
+      "eachNote": true,
+      "rating": true,
+      "remind": true,
       "end": "2015年01月15日",
       "eachtimeContent": [
         "Test1",
@@ -14,17 +14,14 @@
         "Test4"
       ],
       "days": [
-        "2015年02月15日",
-        "2015年02月23日",
-        "2015年02月25日"
       ],
       "name": "Test_/推荐 by 大钟哥",
-      "programTag": 1,
+      "programTag": 0,
       "programUnique": 150129010,
-      "daysInterval": 0,
-      "problem": "Test",
-      "solution": "Test",
-      "repeat": 0,
+      "daysInterval": 10,
+      "problem": "2222",
+      "solution": "3333",
+      "repeat": 2,
       "times": 4,
       "each": [
         "22:15",
